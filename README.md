@@ -1,1 +1,1 @@
-# SuperHeroAPI
+JusticeLeagueAPI is developed for all students and biginners who want to understand/learn Dot.Net Core API CRUD operation. Just make sure that you verify the code and don't use this in your production server. Happy Learning - Avinash.
